@@ -1,0 +1,2 @@
+chr - lambda lambda 0 48502 green 
+chr - DE3    DE3    0 42925 blue
